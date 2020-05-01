@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WFPonNETCore
+namespace WPFonNETCore
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
